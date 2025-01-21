@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bMatteo974
 - 👀 I’m interested in videos games
-- 🌱 I’m currently learning IT development
+- 🌱 I’m currently learning IT development on the IUT Limousin
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me : begue.matteo24@gmail.com
 - 😄 Pronouns: male
